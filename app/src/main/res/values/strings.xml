@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">ServicesOlives</string>
+
+    <string name="action_sync">Sincronizar</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="account_type">miranda.com.olivesservices.account</string>
+    <string name="provider_authority">miranda.com.olivesservices</string>
+
+    <string name="empty_list">No hay datos</string>
+
+    <string name="title_activity_detail">Nueva Entrada</string>
+    <string name="Kg_hint">Kilogramos</string>
+    <string name="descripcion_hint">Escandallo</string>
+    <string name="cliente_title">Cliente</string>
+    <string name="fecha_title">Fecha</string>
+    <string-array name="clientes">
+        <item>Aceitunas Cazorla</item>
+        <item>Aceitunas San-Mer</item>
+        <item>Cooperativa San Marcos</item>
+        <item>Sovena España</item>
+        <item>Pickles Olives</item>
+    </string-array>
+    <string name="boton">AGREGAR ENTRADA</string>
+
+</resources>
